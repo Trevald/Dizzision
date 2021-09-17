@@ -106,7 +106,7 @@ List
     width: 30%;
     height: auto;
     transform: rotate(-8deg);
-    filter: blur(0.0125rem);
+    /* filter: blur(0.0125rem);*/
 
     color: rgba(255, 230, 170, 0.4);
 }
