@@ -252,3 +252,20 @@ input[type="text"]:focus {
 
     text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5);
 }
+
+.trevald {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    width: min(69px, 8vw);
+    height: auto;
+    color: rgba(255, 255, 255, 0.5);
+    transition: all 0.3s ease;
+}
+
+.trevald:hover {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.trevald svg {
+}
